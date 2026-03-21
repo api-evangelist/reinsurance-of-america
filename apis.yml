@@ -1,0 +1,7 @@
+aid: reinsurance-of-america
+url: https://raw.githubusercontent.com/api-evangelist/reinsurance-of-america/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.reinsurance-of-america.com
