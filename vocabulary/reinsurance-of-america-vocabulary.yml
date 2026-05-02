@@ -1,0 +1,83 @@
+title: Reinsurance Group of America Vocabulary
+description: Key terms and concepts used by Reinsurance Group of America (RGA) in its products, APIs, and services.
+version: 1.0.0
+modified: '2026-05-02'
+terms:
+  - term: Reinsurance
+    definition: >-
+      A practice by which an insurer transfers portions of its risk portfolio to another
+      party (the reinsurer) to reduce the likelihood of paying a large obligation
+      resulting from an insurance claim.
+
+  - term: Cession
+    definition: >-
+      The process by which a primary insurance company transfers a portion of its risk
+      to a reinsurer. The amount ceded is the cession.
+
+  - term: Cedant
+    definition: >-
+      An insurance company that transfers risk to a reinsurer through a reinsurance
+      arrangement. Also called the ceding company.
+
+  - term: Risk Scoring
+    definition: >-
+      The quantification of underwriting risk based on electronic medical records,
+      medical claims data, and other health data signals into a numeric score used for
+      automated underwriting decisions.
+
+  - term: Digital Health Data (DHD)
+    definition: >-
+      Structured electronic medical record and medical claims data used by RGA to
+      derive actionable underwriting risk scores via real-time API.
+
+  - term: Life Reinsurance
+    definition: >-
+      Reinsurance coverage for life insurance policies, transferring mortality risk
+      from primary life insurers to RGA.
+
+  - term: Health Reinsurance
+    definition: >-
+      Reinsurance coverage for health insurance policies, transferring morbidity risk
+      from primary health insurers to RGA.
+
+  - term: Underwriting
+    definition: >-
+      The process of evaluating the risk of insuring a person or asset, setting policy
+      terms, and determining the premium to be charged.
+
+  - term: Post-Issue Monitoring
+    definition: >-
+      Ongoing risk assessment of policies after they have been issued, using updated
+      health data and claims information to identify changes in risk profile.
+
+  - term: Triage
+    definition: >-
+      The initial underwriting screening process that uses automated risk scoring to
+      determine whether an application warrants further review or can be decided
+      automatically.
+
+  - term: Living Benefits
+    definition: >-
+      Reinsurance solutions for products that provide benefits to policyholders who are
+      still alive, such as critical illness, long-term care, and disability income.
+
+  - term: Financial Solutions
+    definition: >-
+      RGA's capital markets, longevity risk management, and asset-intensive reinsurance
+      products that help insurers manage balance sheet risk and capital requirements.
+
+  - term: Retrocession
+    definition: >-
+      A reinsurance transaction where the reinsurer cedes some of its own accepted
+      reinsurance risks to another reinsurer (the retrocessionaire).
+
+  - term: Quota Share
+    definition: >-
+      A type of reinsurance treaty where the ceding insurer gives up a fixed percentage
+      of all premiums and losses in exchange for a proportional share of reinsurance
+      protection.
+
+  - term: Excess of Loss
+    definition: >-
+      A non-proportional reinsurance type where the reinsurer pays losses that exceed
+      a specified retention limit up to a maximum coverage amount.
