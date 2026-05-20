@@ -59,6 +59,8 @@ apis:
         url: https://www.rgare.com
 
 common:
+  - type: GitHubOrganization
+    url: https://github.com/rgare
   - type: Website
     url: https://www.rgare.com
   - type: Documentation
